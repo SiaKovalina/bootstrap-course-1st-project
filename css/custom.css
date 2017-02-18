@@ -1,0 +1,49 @@
+body {
+  padding-top: 50px;
+}
+
+.em-text {
+	color: #1caa98 !important
+}
+
+.jumbotron {
+	background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('../images/site-showcase.jpg');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: #fff;
+	overflow: none;
+	padding-bottom: 0px;
+}
+
+.jumbotron h1 {
+	margin-bottom: 30px;
+    font-size: 80px;
+}
+
+.jumbotron p{
+	margin-bottom: 60px;
+    font-size: 32px;
+}
+
+.app-btn {
+	width: 40%;
+}
+
+#showcase-img {
+	height: 100%;
+}
+
+.jumbotron .app-btn {
+	margin-top: -70px;
+	margin-right: 30px;
+}
+
+#middle .middle-img {
+	width: 85%;
+	padding-left: 10%;
+}
+
+#middle h2 {
+	text-align: center;
+}
