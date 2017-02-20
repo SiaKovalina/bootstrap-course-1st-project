@@ -39,11 +39,78 @@ body {
 	margin-right: 30px;
 }
 
-#middle .middle-img {
-	width: 85%;
-	padding-left: 10%;
+#middle {
+	margin-bottom: 30px;
+}
+
+#middle .row {
+    margin-top: 30px;
 }
 
 #middle h2 {
 	text-align: center;
 }
+
+#middle p {
+    text-align: justify;
+}
+
+#feature {
+	background: #1caa98;
+	color: #fff;
+	padding: 40px;
+	overflow: auto;
+}
+
+#feature ul li {
+	font-size: 22px;
+	list-style: none;
+	line-height: 2em;
+}
+
+#feature .fa {
+	margin-top: 20px;
+    margin-bottom: 10px;
+    font-size: 200px;
+    color: #333;
+}
+
+footer {
+	background: #333;
+	color: #fff;
+	padding: 30px 0 20px 0;
+}
+
+footer li {
+	float: left;
+	padding: 0 10px 0 10px;
+	list-style: none;
+}
+
+footer a {
+	color: #fff;
+}
+
+footer p {
+	float: right;
+}
+
+/* Styles for the About Page */
+#title-bar {
+	height: 80px;
+	background: #1caa98;
+	color: #fff;
+	padding: 0;
+	margin: 0;
+}
+
+#title-bar h1 {
+	margin-bottom: 80px;
+}
+
+
+
+
+
+
+
